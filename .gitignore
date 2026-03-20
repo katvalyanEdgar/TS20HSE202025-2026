@@ -17,3 +17,5 @@ results/*
 !results/final_120/cluster_assignments.csv
 !results/final_120/cluster_feature_summary.csv
 !results/final_120/silhouette_scores.csv
+results/final_120/predictions.csv
+results/final_120/series_scales.csv
