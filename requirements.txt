@@ -3,6 +3,7 @@ datasetsforecast==1.0.1
 matplotlib==3.10.8
 numpy==1.26.4
 pandas==2.3.3
+reportlab==4.4.10
 scikit-learn==1.8.0
 scipy==1.15.3
 statsforecast==2.0.3
