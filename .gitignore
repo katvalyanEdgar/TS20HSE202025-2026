@@ -8,3 +8,12 @@ env/
 data_cache/
 results/*
 !results/README.md
+!results/final_120/
+!results/final_120/*.json
+!results/final_120/plots/
+!results/final_120/plots/*.png
+!results/final_120/metrics.csv
+!results/final_120/horizon_metrics.csv
+!results/final_120/cluster_assignments.csv
+!results/final_120/cluster_feature_summary.csv
+!results/final_120/silhouette_scores.csv
